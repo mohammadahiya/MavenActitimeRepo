@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.MavenActitime.CreatecustomerTest.CustomerTest">
+        <methods>
+          <include name="ConfigAS"/>
+          <include name="ConfigAC"/>
+          <include name="ConfigAM"/>
+          <include name="ConfigBM"/>
+          <include name="ConfigBS"/>
+          <include name="ConfigBC"/>
+          <include name="Createcustomertest"/>
+        </methods>
+      </class> <!-- com.MavenActitime.CreatecustomerTest.CustomerTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
