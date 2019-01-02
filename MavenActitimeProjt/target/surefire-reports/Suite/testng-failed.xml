@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.MavenActitime.CreatecustomerTest.CustomerTest">
+        <methods>
+          <include name="ConfigAC"/>
+          <include name="ConfigAS"/>
+          <include name="ConfigAM"/>
+          <include name="ConfigBM"/>
+          <include name="ConfigBS"/>
+          <include name="ConfigBC"/>
+          <include name="Createcustomertest"/>
+        </methods>
+      </class> <!-- com.MavenActitime.CreatecustomerTest.CustomerTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

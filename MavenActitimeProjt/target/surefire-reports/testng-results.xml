@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="49249" started-at="2019-01-01T21:24:45Z" finished-at="2019-01-01T21:25:34Z">
+  <suite name="Suite" duration-ms="46288" started-at="2019-01-02T18:47:45Z" finished-at="2019-01-02T18:48:31Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="49249" started-at="2019-01-01T21:24:45Z" finished-at="2019-01-01T21:25:34Z">
+    <test name="Test" duration-ms="46288" started-at="2019-01-02T18:47:45Z" finished-at="2019-01-02T18:48:31Z">
       <class name="com.MavenActitime.CreatecustomerTest.CustomerTest">
-        <test-method status="PASS" signature="ConfigBS()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBS" is-config="true" duration-ms="22" started-at="2019-01-02T02:54:45Z" finished-at="2019-01-02T02:54:45Z">
+        <test-method status="PASS" signature="ConfigBS()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBS" is-config="true" duration-ms="16" started-at="2019-01-03T00:17:45Z" finished-at="2019-01-03T00:17:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigBS -->
-        <test-method status="PASS" signature="ConfigBC()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBC" is-config="true" duration-ms="14175" started-at="2019-01-02T02:54:45Z" finished-at="2019-01-02T02:54:59Z">
+        <test-method status="PASS" signature="ConfigBC()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBC" is-config="true" duration-ms="14083" started-at="2019-01-03T00:17:45Z" finished-at="2019-01-03T00:17:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigBC -->
-        <test-method status="PASS" signature="ConfigBM()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBM" is-config="true" duration-ms="7676" started-at="2019-01-02T02:54:59Z" finished-at="2019-01-02T02:55:07Z">
+        <test-method status="PASS" signature="ConfigBM()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigBM" is-config="true" duration-ms="6885" started-at="2019-01-03T00:17:59Z" finished-at="2019-01-03T00:18:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigBM -->
-        <test-method status="PASS" signature="Createcustomertest()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="Createcustomertest" duration-ms="19480" started-at="2019-01-02T02:55:07Z" finished-at="2019-01-02T02:55:26Z">
+        <test-method status="PASS" signature="Createcustomertest()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="Createcustomertest" duration-ms="16902" started-at="2019-01-03T00:18:06Z" finished-at="2019-01-03T00:18:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Createcustomertest -->
-        <test-method status="PASS" signature="ConfigAM()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAM" is-config="true" duration-ms="4656" started-at="2019-01-02T02:55:26Z" finished-at="2019-01-02T02:55:31Z">
+        <test-method status="PASS" signature="ConfigAM()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAM" is-config="true" duration-ms="4684" started-at="2019-01-03T00:18:23Z" finished-at="2019-01-03T00:18:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigAM -->
-        <test-method status="PASS" signature="ConfigAC()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAC" is-config="true" duration-ms="3239" started-at="2019-01-02T02:55:31Z" finished-at="2019-01-02T02:55:34Z">
+        <test-method status="PASS" signature="ConfigAC()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAC" is-config="true" duration-ms="3715" started-at="2019-01-03T00:18:28Z" finished-at="2019-01-03T00:18:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigAC -->
-        <test-method status="PASS" signature="ConfigAS()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAS" is-config="true" duration-ms="247" started-at="2019-01-02T02:55:34Z" finished-at="2019-01-02T02:55:35Z">
+        <test-method status="PASS" signature="ConfigAS()[pri:0, instance:com.MavenActitime.CreatecustomerTest.CustomerTest@6d00a15d]" name="ConfigAS" is-config="true" duration-ms="34" started-at="2019-01-03T00:18:32Z" finished-at="2019-01-03T00:18:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigAS -->

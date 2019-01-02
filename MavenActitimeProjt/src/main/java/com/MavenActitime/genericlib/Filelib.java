@@ -13,7 +13,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class Filelib {
-String Excelpath="D:\\Automation\\MavenActitimeProjt\\src\\test\\resources\\testdata.xlsx";
+String Excelpath="D:\\EgitMavenActtimePorjt\\MavenActitimeProjt\\src\\test\\resources\\testdata.xlsx";
 public String getexceldata(String sheetname,int rownum,int colnum) throws Throwable
 {
 FileInputStream fis=new FileInputStream(Excelpath);
@@ -39,7 +39,7 @@ wb.close();
 }
 public Properties getpropertyobject() throws Throwable
 {
-FileInputStream fobj=new FileInputStream("D:\\Automation\\MavenActitimeProjt\\src\\test\\resources\\commondata.properties");
+FileInputStream fobj=new FileInputStream("D:\\EgitMavenActtimePorjt\\MavenActitimeProjt\\src\\test\\resources\\commondata.properties");
 Properties pobj=new Properties();
 pobj.load(fobj);
 return pobj;
